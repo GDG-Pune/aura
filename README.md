@@ -6,13 +6,13 @@
 
 Standard Web App for GDG's Communties. <br>
 [Demo](https://aura-client-master.firebaseapp.com/) <br>
-Version: 1.0.5
-
+Version: 1.0.5 <br>
+[Forked From GDG-X](https://github.com/gdg-x/aura) <br>
 ## Overview
 
 Aura is the website template that helps you to set GDG's Communities website with events, team and  management in a few minutes.
 
-The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups.
+The template is created by [GDG Pune](https://www.meetup.com/Pune-GDG/) team experience of running meetups.
 
 ## Features
 | Feature | Description |
