@@ -1,11 +1,10 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
+        "name":"Mahaveer Muttha",
+        "designation":"GDG Pune Organizer",
+        "twitter":"https://twitter.com/mahaveermuttha",
+        "linkedin":"https://www.linkedin.com/in/mahaveer-muttha-64451832",
+        "profileImage":"mahaveer.jpeg",
         "website":""
     },
     {
@@ -14,33 +13,6 @@
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
         "profileImage":"",
         "website":""
     }
