@@ -1,74 +1,38 @@
 [
     {
-        "name":"Mahaveer Muttha",
-        "designation":"GDG Pune Organizer",
-        "github":"",
-        "twitter":"https://twitter.com/mahaveermuttha",
-        "linkedin":"https://www.linkedin.com/in/mahaveer-muttha-64451832",
-        "profileImage":"mahaveer.jpeg",
-        "website":""
+        "name": "Mahaveer Muttha",
+        "designation": "GDG Pune Organizer",
+        "github": "",
+        "twitter": "https://twitter.com/mahaveermuttha",
+        "linkedin": "https://www.linkedin.com/in/mahaveer-muttha-64451832",
+        "profileImage": "mahaveer.jpeg",
+        "website": ""
     },
     {
-        "name":"Swapnil Jathar",
-        "designation":"GDG Pune Organizer",
-        "github":"",
-        "twitter":"https://twitter.com/swapniljathar",
-        "linkedin":"https://www.linkedin.com/in/swapniljathar/",
-        "profileImage":"swapnil.jpg",
-        "website":""
+        "name": "Swapnil Jathar",
+        "designation": "GDG Pune Organizer",
+        "github": "",
+        "twitter": "https://twitter.com/swapniljathar",
+        "linkedin": "https://www.linkedin.com/in/swapniljathar/",
+        "profileImage": "swapnil.jpg",
+        "website": ""
     },
     {
-        "name":"Pranoti Nandurkar",
-        "designation":"WTM Ambassador",
-        "github":"",
-        "twitter":"https://twitter.com/pranotinandurka",
-        "linkedin":"https://www.linkedin.com/in/pranoti-nandurkar-170021b/",
-        "profileImage":"pranoti.jpg",
-        "website":""
+        "name": "Pranoti Nandurkar",
+        "designation": "WTM Ambassador",
+        "github": "",
+        "twitter": "https://twitter.com/pranotinandurka",
+        "linkedin": "https://www.linkedin.com/in/pranoti-nandurkar-170021b/",
+        "profileImage": "pranoti.jpg",
+        "website": ""
     },
     {
-        "name":"Aditi Soni",
-        "designation":"WTM Ambassador",
-        "github":"",
-        "twitter":"https://twitter.com/soniaditi380",
-        "linkedin":"https://www.linkedin.com/in/aditi-soni/",
-        "profileImage":"aditi.jpeg",
-        "website":""
-    },
-    {
-        "name":"Namrata More",
-        "designation":"WTM Ambassador",
-        "github":"",
-        "twitter":"https://twitter.com/namratamore_nm",
-        "linkedin":"https://www.linkedin.com/in/namratamore",
-        "profileImage":"namrata.jpeg",
-        "website":""
-    },
-    {
-        "name":"Utkarsh Wagh",
-        "designation":"GDG Cloud Pune Organizer",
-        "github":"",
-        "twitter":"https://twitter.com/utkarsh_wagh",
-        "linkedin":"https://www.linkedin.com/in/utkarshwagh/",
-        "profileImage":"utkarsh.jpeg",
-        "website":""
-    },
-    {
-        "name":"Rajat Kabade",
-        "designation":"GDG Cloud Pune Organizer",
-        "github":"",
-        "twitter":"https://twitter.com/RajatKabade",
-        "linkedin":"https://www.linkedin.com/in/rajatkabade/",
-        "profileImage":"rajat.jpeg",
-        "website":""
-    },
-    {
-        "name":"Gautam Chitnis",
-        "designation":"GDG Cloud Pune Organizer",
-        "github":"",
-        "twitter":"https://twitter.com/gautamchitnis",
-        "linkedin":"https://www.linkedin.com/in/gautam-chitnis/",
-        "profileImage":"gautam.jpeg",
-        "website":""
+        "name": "Namrata More",
+        "designation": "WTM Ambassador",
+        "github": "",
+        "twitter": "https://twitter.com/namratamore_nm",
+        "linkedin": "https://www.linkedin.com/in/namratamore",
+        "profileImage": "namrata.jpeg",
+        "website": ""
     }
 ]
