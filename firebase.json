@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "gdgpuneaura-tmp",
     "public": "dist",
     "ignore": [
       "firebase.json",
