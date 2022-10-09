@@ -1,29 +1,49 @@
 {
-    "ChapterName":"GDG Pune",
-    "ChapterShortDescription":"Google Developers Group Pune is an initiative to concentrate the efforts of many developers in and around Pune to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Pune is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Pune. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/Pune-GDG",
-    "ChapterEmail":"gdg.wtm.pune@gmail.com",
-    "website":"https://gdgpune.org",
-    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGPune","WTMPune","GDG","WTM"],
-    "socialLinks":[
+    "ChapterName": "GDG Pune",
+    "ChapterShortDescription": "Google Developers Group Pune is an initiative to concentrate the efforts of many developers in and around Pune to learn, share and get productive using the various Google products.",
+    "ChapterLongDec": "Google Developer Group Pune is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Pune. The technology awareness is main goal for first few years of the group.",
+    "ChapterMeetupLink": "https://www.meetup.com/Pune-GDG",
+    "ChapterEmail": "gdg.wtm.pune@gmail.com",
+    "website": "https://gdgpune.org",
+    "GDGProgramWebsite": "https://developers.google.com/programs/community/",
+    "ChapterHashTags": [
+        "GDGPune",
+        "WTMPune",
+        "GDG",
+        "WTM"
+    ],
+    "socialLinks": [
         {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/gdgpune/",
-            "icon" : "fab fa-facebook"
+            "name": "Facebook",
+            "link": "https://www.facebook.com/gdgpune/",
+            "icon": "fab fa-facebook"
         },
         {
-            "name" : "Twitter",
-            "link" : "https://twitter.com/gdgpune",
-            "icon" : "fab fa-twitter"
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/company/gdgpune/",
+            "icon": "fab fa-linkedin"
         },
         {
-            "name" : "Meetup",
-            "link" : "https://www.meetup.com/Pune-GDG/",
-            "icon" : "fab fa-meetup"
+            "name": "Twitter",
+            "link": "https://twitter.com/gdgpune",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "name": "Instagram",
+            "link": "https://www.instagram.com/gdgpune",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "name": "YouTube",
+            "link": "https://www.youtube.com/channel/UCWjodTrsdRBOUyTuYo2l4Og",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "name": "Meetup",
+            "link": "https://www.meetup.com/Pune-GDG/",
+            "icon": "fab fa-meetup"
         }
     ],
-    "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "wtmWebsite": "https://www.womentechmakers.com/",
+    "aboutGDGProgram": "GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
 }
