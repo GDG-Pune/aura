@@ -45,6 +45,11 @@ export default new Router({
       path: '/contact',
       name: 'contact',
       component: () => import('./views/Contact.vue')
+    },
+    {
+      path: '/iwd',
+      name: 'iwd',
+      component: () => import('./views/Iwd.vue')
     }
   ]
 })
