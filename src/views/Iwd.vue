@@ -24,6 +24,18 @@
           <p style="font-size: 120%">
             Come join us on the 23rd of April, 2023 in Pune.
           </p>
+          <p
+            class="google-font mt-5 mb-2"
+            style="font-size: 115%; color: #1a73e8; font-weight: 200"
+          >
+            <i class="fa fa-calendar"></i> &nbsp;23rd April |
+            9:00 AM to 5:00 PM
+          </p>
+          <p class="google-font mb-8" style="font-size: 110%; color: #9e9e9e">
+            <span v-for="(item, i) in iwdHashTags" :key="i"
+              >#{{ item }} &nbsp;</span
+            >
+          </p>
         </v-flex>
         <v-flex xs12 md5 class="mb-0">
           <img
@@ -54,6 +66,42 @@
         </v-flex>
       </v-layout>
     </v-container>
+    <v-container fluid class="grey lighten-4 py-5">
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class>
+          <stats />
+        </v-flex>
+      </v-layout>
+    </v-container>
+    <v-container fluid class="mt-2 mb-0">
+      <v-layout wrap align-start row justify-center fill-height class="my-0">
+        <v-flex xs12 md10 class="">
+          <h1
+            class="google-font mb-0 mt-0"
+            style="font-size: 200%; color: #1a73e8"
+          >
+            Schedule
+          </h1>
+          <p style="font-size: 190%; color: #9e9e9e" class="py-5">
+            Coming Soon...
+          </p>
+        </v-flex>
+      </v-layout>
+    </v-container>
   </v-content>
 </template>
 
+<script>
+import ChapterDetails from "@/assets/data/chapterDetails.json";
+
+export default {
+  components: {
+    stats: () => import("@/components/iwd/stats"),
+  },
+  data() {
+    return {
+      iwdHashTags: ChapterDetails.IWDHashTags,
+    };
+  },
+};
+</script>
