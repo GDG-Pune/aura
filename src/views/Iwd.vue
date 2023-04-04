@@ -13,7 +13,7 @@
           <p style="font-size: 120%">
             International Women's Day Conference by Women Techmakers is back
             again this year after a brief pause owing to the pandemic. This year
-            we look forward to welcome around 1,000 Women in Tech and Allies at
+            we look forward to welcome around 500 Women in Tech and Allies at
             our conference. The same will have Tech Talks, Panel Discussions and
             Fireside Chats followed by Networking Sessions.
           </p>
@@ -31,14 +31,15 @@
           <i class="fa fa-calendar"></i> &nbsp;23rd April |
             9:00 AM to 5:00 PM
           </p>
+          <a style="text-decoration: none;" href="https://goo.gl/maps/o9M6WGyrvew5CjJ96">
           <p
           class="google-font mt-2 mb-2"
           style="font-size: 115%; color: #1a73e8; font-weight: 200"
         >
-          <i class="fa fa-map-marker"></i> &nbsp; <a style="text-decoration: none;" href="https://goo.gl/maps/gm4m6kLf9kAssftSA">
+          <i class="fa fa-map-marker"></i> &nbsp; 
               Symbiosis Auditorium, Viman Nagar, Pune
-          </a>
         </p>
+      </a>
           <p class="google-font mb-8" style="font-size: 110%; color: #9e9e9e">
             <span v-for="(item, i) in iwdHashTags" :key="i"
               >#{{ item }} &nbsp;</span
