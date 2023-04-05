@@ -47,7 +47,7 @@
           </p>
         </v-flex>
         <v-flex xs12 md5 class="mb-0" align-center justify-center style="text-align:center">
-          <video id="bgVideo" preload="true" autoplay loop muted  style="height:auto; width:70%;">
+          <video id="bgVideo" preload="true" autoplay loop muted style="height:auto; width:70%;">
             <source src="../assets/gifs/iwd.mp4" type="video/mp4" /> 
          </video>
          </v-flex>
