@@ -86,13 +86,11 @@
         <v-flex xs12 md10 class="">
           <h1
             class="google-font mb-0 mt-0"
-            style="font-size: 200%; color: #1a73e8"
+            style="font-size: 200%;"
           >
             Schedule
           </h1>
-          <p style="font-size: 190%; color: #9e9e9e" class="py-3">
-            Coming Soon...
-          </p>
+          <img src="../assets/img/schedule.jpeg" width="60%" height="60%" class="margin-auto"/>
         </v-flex>
       </v-layout>
     </v-container>
