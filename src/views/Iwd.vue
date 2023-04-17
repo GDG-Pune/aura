@@ -85,7 +85,7 @@
       <v-layout wrap align-start row justify-center fill-height class="my-0">
         <v-flex xs12 md10 class="">
           <h1
-            class="google-font mb-0 mt-0"
+            class="google-font mb-0 mt-0 mb-4"
             style="font-size: 200%;"
           >
             Schedule
