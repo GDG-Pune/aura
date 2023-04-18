@@ -15,3 +15,6 @@ video::-webkit-media-controls {
     display: none!important;
     -webkit-appearance: none;
   }
+  .font-schedule{
+    font-size: 110%;
+  }
