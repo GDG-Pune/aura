@@ -86,8 +86,8 @@
         <v-flex xs12 md10 class="">
           <!-- <img src="../assets/img/schedule.jpeg" width="60%" height="60%" class="margin-auto"/> -->
           <h1
-          class="google-font mb-0 mt-0"
-          style="font-size: 200%;"
+            class="google-font mb-0 mt-0 mb-4"
+            style="font-size: 200%;"
           >
             Schedule
           </h1>
