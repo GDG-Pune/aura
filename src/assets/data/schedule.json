@@ -1,0 +1,79 @@
+{
+      "day": "1",
+      "date": "April 23",
+      "schedule": [
+        {
+          "startTime": "10:15 AM",
+          "endTime": "10:45 AM",
+          "session": "DareToBe!",
+          "speaker": "Manisha Khadge"
+        },
+        {
+            "startTime": "10:45 AM",
+            "endTime": "11:15 AM",
+            "session": "Transitioning from a Developer to a Technical Leader",
+            "speaker": "Priya Sindkar"
+          },
+          {
+            "startTime": "11:15 AM",
+            "endTime": "11:45 AM",
+            "session": "When there is a Will there is a Way!!",
+            "speaker": "Ujwalla Bairagi"
+          },
+          {
+            "startTime": "11:45 AM",
+            "endTime": "12:15 PM",
+            "session": "Let's flow with Data flow",
+            "speaker": "Sakshi Khandelwal"
+          },
+          {
+            "startTime": "12:15 PM",
+            "endTime": "01:00 PM",
+            "session": "Activity",
+            "speaker": ""
+          },
+          {
+            "startTime": "01:00 PM",
+            "endTime": "02:00 PM",
+            "session": "Lunch",
+            "speaker": ""
+          },
+          {
+            "startTime": "02:00 PM",
+            "endTime": "02:30 PM",
+            "session": "Data Governance skills for Digital India",
+            "speaker": "Moushmi Dasgupta"
+          },
+          {
+            "startTime": "02:30 PM",
+            "endTime": "03:00 PM",
+            "session": "Big Data in the Financial Industry",
+            "speaker": "Deepthi George"
+          },
+          {
+            "startTime": "03:00 PM",
+            "endTime": "03:30 PM",
+            "session": "Creating futurists and Technologists from rural India",
+            "speaker": "Payal Rajpal"
+          },
+          {
+            "startTime": "03:30 PM",
+            "endTime": "03:45 PM",
+            "session": "High Tea & Snacks",
+            "speaker": ""
+          },
+          {
+            "startTime": "03:45 PM",
+            "endTime": "04:45 PM",
+            "session": "Dare To Lead: A panel discussion with women in leadership",
+            "speaker": "Pranoti Nandurkar, Sarita Prakash, Rajeshri, Mira Arora, Sangeeta Sharma, Sarita Bajaj"
+          },
+          {
+            "startTime": "04:45 PM",
+            "endTime": "05:00 PM",
+            "session": "Thanking Note",
+            "speaker": ""
+          }
+        
+      ]
+    }
